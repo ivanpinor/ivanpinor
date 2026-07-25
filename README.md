@@ -1,29 +1,30 @@
 <!-- ============================================== -->
-<!--                   HEADER                       -->
+<!--              TRAINER CARD HEADER               -->
 <!-- ============================================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:8B5CF6,100:F72585&height=200&section=header&text=IVAN.DEV&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:FFCB05,100:3B4CCA&height=180&section=header&text=IVAN's%20DEV%20JOURNEY&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=LOADING+SKILLS...;HTML+%2B+CSS+%2B+JS;NEXT+LEVEL%3A+REACT;PRESS+START+TO+CONTINUE" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="100">
 
 </div>
 
 <br>
 
 <!-- ============================================== -->
-<!--                STATUS WINDOW                   -->
+<!--                TRAINER CARD                    -->
 <!-- ============================================== -->
 <div align="center">
 
 ```
-┌─────────────────────────────────────┐
-│  PLAYER: Ivan                        │
-│  CLASS:  Aspiring Web Developer       │
-│  LEVEL:  Junior (in progress)         │
-│  HP:     ████████████████░░░░  80%    │
-│  MP:     ██████████░░░░░░░░░░  50%    │
-└─────────────────────────────────────┘
+╔═══════════════════════════════════════╗
+║           TRAINER CARD                 ║
+╠═══════════════════════════════════════╣
+║  NAME:    Ivan                         ║
+║  CLASS:   Web Developer Trainer        ║
+║  BADGES:  3 / 8 obtenidas              ║
+║  REGION:  Frontend Region              ║
+╚═══════════════════════════════════════╝
 ```
 
 </div>
@@ -31,118 +32,159 @@
 <br>
 
 <!-- ============================================== -->
-<!--              INVENTORY (SKILLS)                -->
+<!--             BATTLE SCREEN (SKILLS)             -->
 <!-- ============================================== -->
 <div align="center">
 
-### 🎒 INVENTARIO
+### ⚔️ EQUIPO ACTIVO
 
-<table>
+</div>
+
+<table align="center" width="100%">
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
-<sub><b>HTML5</b></sub><br>
-<sub>▰▰▰▰▱ 80%</sub>
+<td width="50%" valign="top">
+
+```
+IVAN usa HTML5!
+```
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" width="80">
+
+**HTML5** &nbsp; Nv. 80
+```
+HP  ██████████████████░░  80/100
+```
+<img src="https://img.shields.io/badge/TYPE-ESTRUCTURA-E4405F?style=for-the-badge"/>
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
-<sub><b>CSS3</b></sub><br>
-<sub>▰▰▰▱▱ 70%</sub>
+<td width="50%" valign="top">
+
+```
+IVAN usa CSS3!
+```
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/7.gif" width="80">
+
+**CSS3** &nbsp; Nv. 70
+```
+HP  ████████████████░░░░  70/100
+```
+<img src="https://img.shields.io/badge/TYPE-ESTILO-3B82F6?style=for-the-badge"/>
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
-<sub><b>JS</b></sub><br>
-<sub>▰▰▱▱▱ 50%</sub>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```
+IVAN usa JAVASCRIPT!
+```
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="80">
+
+**JavaScript** &nbsp; Nv. 50
+```
+HP  ████████████░░░░░░░░  50/100
+```
+<img src="https://img.shields.io/badge/TYPE-LOGICA-F7DF1E?style=for-the-badge&logoColor=black"/>
+
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
-<sub><b>GIT</b></sub><br>
-<sub>▰▰▰▱▱ 60%</sub>
+<td width="50%" valign="top">
+
+```
+IVAN usa GIT!
+```
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" width="80">
+
+**Git & GitHub** &nbsp; Nv. 60
+```
+HP  ██████████████░░░░░░  60/100
+```
+<img src="https://img.shields.io/badge/TYPE-CONTROL-6B21A8?style=for-the-badge"/>
+
 </td>
 </tr>
 </table>
 
-### 🔒 ITEMS BLOQUEADOS (próximo nivel)
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=react" width="48" style="filter: grayscale(100%); opacity: 0.5;"/><br>
-<sub><b>REACT</b></sub><br>
-<sub>▰▱▱▱▱ 15%</sub>
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" style="filter: grayscale(100%); opacity: 0.5;"/><br>
-<sub><b>NODE</b></sub><br>
-<sub>▱▱▱▱▱ 0%</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
 <br>
 
 <!-- ============================================== -->
-<!--                QUEST LOG (STATS)               -->
+<!--           PC BOX (POR EVOLUCIONAR)             -->
 <!-- ============================================== -->
 <div align="center">
 
-### 📜 QUEST LOG — ESTADÍSTICAS
-
-<img src="https://github-readme-stats.vercel.app/api?username=ivanpinor&show_icons=true&theme=gruvbox&hide_border=false&border_radius=0&bg_color=1a1a2e" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpinor&layout=compact&theme=gruvbox&hide_border=false&border_radius=0&bg_color=1a1a2e" width="35%"/>
-
-</div>
-
-<br>
-
-<!-- ============================================== -->
-<!--             ACHIEVEMENTS (TROPHIES)            -->
-<!-- ============================================== -->
-<div align="center">
-
-### 🏆 LOGROS DESBLOQUEADOS
-
-<img src="https://github-profile-trophy.vercel.app/?username=ivanpinor&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
-<br>
-
-<!-- ============================================== -->
-<!--              SIDE QUEST (HOBBY)                -->
-<!-- ============================================== -->
-<div align="center">
-
-### 🎮 SIDE QUEST
+### 📦 CAJA PC — POR EVOLUCIONAR
 
 ```
-┌───────────────────────────────┐
-│  ACTIVIDAD:  League of Legends │
-│  ROL:        Estratega casual  │
-│  ESTADO:     Siempre activo    │
-└───────────────────────────────┘
+"¡Estos Pokémon aún no han sido capturados!"
 ```
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133-mega.gif" width="70">
+<b>React</b> &nbsp;|&nbsp; Nv. 15 &nbsp;|&nbsp; ▰▱▱▱▱
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/147.gif" width="70">
+<b>Node.js</b> &nbsp;|&nbsp; Nv. 1 &nbsp;|&nbsp; ▱▱▱▱▱
 
 </div>
 
 <br>
 
 <!-- ============================================== -->
-<!--                  CONTACT                       -->
+<!--             GYM BADGES (STATS)                 -->
 <!-- ============================================== -->
 <div align="center">
 
-### 📡 CANAL DE COMUNICACIÓN
+### 🏅 MEDALLAS DE GIMNASIO — ESTADÍSTICAS
+
+<img src="https://github-readme-stats.vercel.app/api?username=ivanpinor&show_icons=true&theme=pokedex&hide_border=false&border_radius=8" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpinor&layout=compact&theme=pokedex&hide_border=false&border_radius=8" width="35%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🏆 TROFEOS DE LIGA
+
+<img src="https://github-profile-trophy.vercel.app/?username=ivanpinor&theme=pokemon&no-frame=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+<br>
+
+<!-- ============================================== -->
+<!--              WILD ENCOUNTER (HOBBY)            -->
+<!-- ============================================== -->
+<div align="center">
+
+### 🌿 ENCUENTRO SALVAJE
+
+```
+¡Un IVAN SALVAJE apareció en la hierba alta!
+Su pasatiempo favorito es LEAGUE OF LEGENDS.
+¿Qué debería hacer?
+```
+
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="90">
+
+</div>
+
+<br>
+
+<!-- ============================================== -->
+<!--              PC ACCESS (CONTACT)               -->
+<!-- ============================================== -->
+<div align="center">
+
+### 💻 ACCESO AL PC — CONTACTO
 
 <a href="https://instagram.com/TU_USUARIO_AQUI" target="_blank">
-<img src="https://img.shields.io/badge/INSTAGRAM-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FFCB05?style=for-the-badge&logo=instagram&logoColor=3B4CCA"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ivanpinor&label=VISITORS&color=8B5CF6&style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://komarev.com/ghpvc/?username=ivanpinor&label=ENTRENADORES+QUE+PASARON&color=FFCB05&style=for-the-badge"/>
 
 </div>
 
@@ -152,5 +194,5 @@
 <!--                   FOOTER                       -->
 <!-- ============================================== -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:F72585,100:8B5CF6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:3B4CCA,100:FFCB05&height=120&section=footer" width="100%"/>
 </div>
