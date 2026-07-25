@@ -3,7 +3,7 @@
 <!-- ============================================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:FFCB05,100:3B4CCA&height=180&section=header&text=IVAN's%20DEV%20JOURNEY&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFCB05,100:3B4CCA&height=180&section=header&text=IVAN's%20DEV%20JOURNEY&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="100">
 
@@ -116,12 +116,12 @@ HP  ██████████████░░░░░░  60/100
 "¡Estos Pokémon aún no han sido capturados!"
 ```
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133-mega.gif" width="70">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="70">
 <b>React</b> &nbsp;|&nbsp; Nv. 15 &nbsp;|&nbsp; ▰▱▱▱▱
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/147.gif" width="70">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" width="70">
 <b>Node.js</b> &nbsp;|&nbsp; Nv. 1 &nbsp;|&nbsp; ▱▱▱▱▱
 
 </div>
@@ -135,8 +135,8 @@ HP  ██████████████░░░░░░  60/100
 
 ### 🏅 MEDALLAS DE GIMNASIO — ESTADÍSTICAS
 
-<img src="https://github-readme-stats.vercel.app/api?username=ivanpinor&show_icons=true&theme=pokedex&hide_border=false&border_radius=8" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpinor&layout=compact&theme=pokedex&hide_border=false&border_radius=8" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ivanpinor&show_icons=true&hide_border=false&border_radius=8&bg_color=2C2C54&title_color=FFCB05&icon_color=FFCB05&text_color=ffffff" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpinor&layout=compact&hide_border=false&border_radius=8&bg_color=2C2C54&title_color=FFCB05&text_color=ffffff" width="35%"/>
 
 </div>
 
@@ -146,7 +146,7 @@ HP  ██████████████░░░░░░  60/100
 
 ### 🏆 TROFEOS DE LIGA
 
-<img src="https://github-profile-trophy.vercel.app/?username=ivanpinor&theme=pokemon&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ivanpinor&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
@@ -194,5 +194,5 @@ Su pasatiempo favorito es LEAGUE OF LEGENDS.
 <!--                   FOOTER                       -->
 <!-- ============================================== -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:3B4CCA,100:FFCB05&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:3B4CCA,100:FFCB05&height=120&section=footer" width="100%"/>
 </div>
