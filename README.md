@@ -3,7 +3,7 @@
 <!-- ============================================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFCB05,100:3B4CCA&height=180&section=header&text=IVAN's%20DEV%20JOURNEY&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCB05,100:3B4CCA&height=200&section=header&text=IVAN's%20DEV%20JOURNEY&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="100">
 
@@ -194,5 +194,5 @@ Su pasatiempo favorito es LEAGUE OF LEGENDS.
 <!--                   FOOTER                       -->
 <!-- ============================================== -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:3B4CCA,100:FFCB05&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B4CCA,100:FFCB05&height=120&section=footer" width="100%"/>
 </div>
