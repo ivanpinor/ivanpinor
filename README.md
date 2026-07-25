@@ -135,8 +135,8 @@ HP  ██████████████░░░░░░  60/100
 
 ### 🏅 MEDALLAS DE GIMNASIO — ESTADÍSTICAS
 
-<img src="https://github-readme-stats.vercel.app/api?username=ivanpinor&show_icons=true&hide_border=false&border_radius=8&bg_color=2C2C54&title_color=FFCB05&icon_color=FFCB05&text_color=ffffff" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpinor&layout=compact&hide_border=false&border_radius=8&bg_color=2C2C54&title_color=FFCB05&text_color=ffffff" width="35%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivanpinor&show_icons=true&hide_border=false&border_radius=8&bg_color=2C2C54&title_color=FFCB05&icon_color=FFCB05&text_color=ffffff" width="47%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivanpinor&layout=compact&hide_border=false&border_radius=8&bg_color=2C2C54&title_color=FFCB05&text_color=ffffff" width="35%"/>
 
 </div>
 
