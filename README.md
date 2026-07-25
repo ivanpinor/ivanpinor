@@ -1,45 +1,37 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hola,%20soy%20Ivan%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspirante%20a%20Desarrollador%20Web%20Junior&descAlignY=55&descSize=18" width="100%"/>
 
-# ¡Hey! Soy Ivan ✨
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=600&color=F72585&center=true&vCenter=true&width=650&lines=Construyendo+mi+camino+como+Dev+%F0%9F%8C%B1;HTML+%2B+CSS+%2B+JavaScript+en+progreso...;Cada+l%C3%ADnea+de+c%C3%B3digo+es+un+paso+m%C3%A1s;Pr%C3%B3ximamente%3A+React+%2B+Node.js+%F0%9F%9A%80" />
-
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Aprendiendo+HTML%2C+CSS+%26+JavaScript;Construyendo+proyectos+todos+los+d%C3%ADas;Pronto%3A+React+%2B+Node.js;%C2%A1Bienvenido+a+mi+perfil!" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## 🌸 Mi mundo, en tarjetas
-
-<table align="center" width="100%">
+<table align="center">
 <tr>
-<td width="33%" valign="top">
+<td valign="top" width="50%">
 
-### 🎯 Ahora mismo
-```
-📍 Estado: Aprendiendo JS
-🔥 Racha: en construcción
-🎮 Modo: pausa para practicar
-```
+### 🧠 Sobre mí
 
-</td>
-<td width="33%" valign="top">
-
-### 🌱 Creciendo en
-<img src="https://skillicons.dev/icons?i=html" height="35"> <img src="https://skillicons.dev/icons?i=css" height="35"> <img src="https://skillicons.dev/icons?i=js" height="35">
-
-*Próximamente...*
-
-<img src="https://skillicons.dev/icons?i=react,nodejs" height="35">
+- 🔭 Estudiando desarrollo web de forma autodidacta
+- 🌱 Actualmente enfocado en **JavaScript** y lógica de programación
+- 🎯 Próxima meta: dominar **React** y **Node.js**
+- ⚡ Practico ejercicios de lógica todos los días
+- 📫 Encuéntrame en Instagram (link abajo)
 
 </td>
-<td width="33%" valign="top">
+<td valign="top" width="50%">
 
-### 💭 Filosofía
-> "El código feo de hoy es el código limpio de mañana"
+### 📊 Racha de estudio
+
+```text
+HTML         ████████████████░░░░  80%
+CSS          ██████████████░░░░░░  70%
+JavaScript   ██████████░░░░░░░░░░  50%
+Git/GitHub   ████████████░░░░░░░░  60%
+React        ███░░░░░░░░░░░░░░░░░  15%
+```
 
 </td>
 </tr>
@@ -49,12 +41,9 @@
 
 <div align="center">
 
-## 🎨 Mi progreso (versión visual)
+### 🛠️ Tecnologías
 
-<img src="https://progress-bar.dev/80/?title=HTML&width=400&color=babaca" />
-<img src="https://progress-bar.dev/70/?title=CSS&width=400&color=61dafb" />
-<img src="https://progress-bar.dev/50/?title=JavaScript&width=400&color=f7df1e" />
-<img src="https://progress-bar.dev/20/?title=React&width=400&color=61dbfb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -62,22 +51,14 @@
 
 <div align="center">
 
-## 🐍 La serpiente que come mis commits
+### 📈 Estadísticas de GitHub
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=ivanpinor&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpinor&layout=compact&theme=radical&hide_border=true" width="30%"/>
 
-*(esta animación se genera sola con mis contribuciones reales una vez la active en GitHub Actions)*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanpinor&theme=radical&hide_border=true" width="60%"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-## 📊 Números que sí importan
-
-<img src="https://github-readme-stats.vercel.app/api?username=ivanpinor&show_icons=true&theme=dracula&hide_border=true&border_radius=15&bg_color=00000000" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpinor&layout=pie&theme=dracula&hide_border=true&border_radius=15&bg_color=00000000" width="30%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanpinor&theme=react-dark&hide_border=true" width="90%"/>
 
 </div>
 
@@ -85,11 +66,9 @@
 
 <div align="center">
 
-## 🎮 Cuando no programo
+### 🏆 Trofeos
 
-<img src="https://media.giphy.com/media/xUOxfjsdBOftcwlZGo/giphy.gif" width="200">
-
-Estoy jugando **League of Legends** — sí, también ahí tomo decisiones bajo presión 😄
+<img src="https://github-profile-trophy.vercel.app/?username=ivanpinor&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
@@ -97,20 +76,26 @@ Estoy jugando **League of Legends** — sí, también ahí tomo decisiones bajo 
 
 <div align="center">
 
-## 💌 Encuéntrame
+### 🎮 Fuera del código
+
+Cuando no estoy programando, probablemente esté jugando **League of Legends**.
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📬 Sígueme
 
 <a href="https://instagram.com/TU_USUARIO_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23F72585.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ivanpinor&label=Visitas+a+mi+perfil&color=f72585&style=for-the-badge" />
 
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 </div>
