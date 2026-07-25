@@ -1,101 +1,156 @@
+<!-- ============================================== -->
+<!--                   HEADER                       -->
+<!-- ============================================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hola,%20soy%20Ivan%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspirante%20a%20Desarrollador%20Web%20Junior&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:8B5CF6,100:F72585&height=200&section=header&text=IVAN.DEV&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Aprendiendo+HTML%2C+CSS+%26+JavaScript;Construyendo+proyectos+todos+los+d%C3%ADas;Pronto%3A+React+%2B+Node.js;%C2%A1Bienvenido+a+mi+perfil!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=LOADING+SKILLS...;HTML+%2B+CSS+%2B+JS;NEXT+LEVEL%3A+REACT;PRESS+START+TO+CONTINUE" />
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+<!-- ============================================== -->
+<!--                STATUS WINDOW                   -->
+<!-- ============================================== -->
+<div align="center">
 
-### 🧠 Sobre mí
-
-- 🔭 Estudiando desarrollo web de forma autodidacta
-- 🌱 Actualmente enfocado en **JavaScript** y lógica de programación
-- 🎯 Próxima meta: dominar **React** y **Node.js**
-- ⚡ Practico ejercicios de lógica todos los días
-- 📫 Encuéntrame en Instagram (link abajo)
-
-</td>
-<td valign="top" width="50%">
-
-### 📊 Racha de estudio
-
-```text
-HTML         ████████████████░░░░  80%
-CSS          ██████████████░░░░░░  70%
-JavaScript   ██████████░░░░░░░░░░  50%
-Git/GitHub   ████████████░░░░░░░░  60%
-React        ███░░░░░░░░░░░░░░░░░  15%
+```
+┌─────────────────────────────────────┐
+│  PLAYER: Ivan                        │
+│  CLASS:  Aspiring Web Developer       │
+│  LEVEL:  Junior (in progress)         │
+│  HP:     ████████████████░░░░  80%    │
+│  MP:     ██████████░░░░░░░░░░  50%    │
+└─────────────────────────────────────┘
 ```
 
+</div>
+
+<br>
+
+<!-- ============================================== -->
+<!--              INVENTORY (SKILLS)                -->
+<!-- ============================================== -->
+<div align="center">
+
+### 🎒 INVENTARIO
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
+<sub><b>HTML5</b></sub><br>
+<sub>▰▰▰▰▱ 80%</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
+<sub><b>CSS3</b></sub><br>
+<sub>▰▰▰▱▱ 70%</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
+<sub><b>JS</b></sub><br>
+<sub>▰▰▱▱▱ 50%</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<sub><b>GIT</b></sub><br>
+<sub>▰▰▰▱▱ 60%</sub>
 </td>
 </tr>
 </table>
 
-<br>
+### 🔒 ITEMS BLOQUEADOS (próximo nivel)
 
-<div align="center">
-
-### 🛠️ Tecnologías
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📈 Estadísticas de GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=ivanpinor&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpinor&layout=compact&theme=radical&hide_border=true" width="30%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanpinor&theme=radical&hide_border=true" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanpinor&theme=react-dark&hide_border=true" width="90%"/>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="48" style="filter: grayscale(100%); opacity: 0.5;"/><br>
+<sub><b>REACT</b></sub><br>
+<sub>▰▱▱▱▱ 15%</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" style="filter: grayscale(100%); opacity: 0.5;"/><br>
+<sub><b>NODE</b></sub><br>
+<sub>▱▱▱▱▱ 0%</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
+<!-- ============================================== -->
+<!--                QUEST LOG (STATS)               -->
+<!-- ============================================== -->
 <div align="center">
 
-### 🏆 Trofeos
+### 📜 QUEST LOG — ESTADÍSTICAS
 
-<img src="https://github-profile-trophy.vercel.app/?username=ivanpinor&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ivanpinor&show_icons=true&theme=gruvbox&hide_border=false&border_radius=0&bg_color=1a1a2e" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanpinor&layout=compact&theme=gruvbox&hide_border=false&border_radius=0&bg_color=1a1a2e" width="35%"/>
 
 </div>
 
 <br>
 
+<!-- ============================================== -->
+<!--             ACHIEVEMENTS (TROPHIES)            -->
+<!-- ============================================== -->
 <div align="center">
 
-### 🎮 Fuera del código
+### 🏆 LOGROS DESBLOQUEADOS
 
-Cuando no estoy programando, probablemente esté jugando **League of Legends**.
+<img src="https://github-profile-trophy.vercel.app/?username=ivanpinor&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
 <br>
 
+<!-- ============================================== -->
+<!--              SIDE QUEST (HOBBY)                -->
+<!-- ============================================== -->
 <div align="center">
 
-### 📬 Sígueme
+### 🎮 SIDE QUEST
+
+```
+┌───────────────────────────────┐
+│  ACTIVIDAD:  League of Legends │
+│  ROL:        Estratega casual  │
+│  ESTADO:     Siempre activo    │
+└───────────────────────────────┘
+```
+
+</div>
+
+<br>
+
+<!-- ============================================== -->
+<!--                  CONTACT                       -->
+<!-- ============================================== -->
+<div align="center">
+
+### 📡 CANAL DE COMUNICACIÓN
 
 <a href="https://instagram.com/TU_USUARIO_AQUI" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ivanpinor&label=VISITORS&color=8B5CF6&style=for-the-badge&labelColor=1a1a2e"/>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<!-- ============================================== -->
+<!--                   FOOTER                       -->
+<!-- ============================================== -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=pixel&color=0:F72585,100:8B5CF6&height=120&section=footer" width="100%"/>
 </div>
