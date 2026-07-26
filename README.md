@@ -110,7 +110,7 @@ HP  ██████████████░░░░░░  60/100
 <!-- ============================================== -->
 <div align="center">
 
-### 📦 CAJA PC — POR EVOLUCIONAR
+###  POR EVOLUCIONAR
 
 ```
 "¡Estos Pokémon aún no han sido capturados!"
@@ -123,32 +123,6 @@ HP  ██████████████░░░░░░  60/100
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/9.gif" width="70">
 <b>Node.js</b> &nbsp;|&nbsp; Nv. 1 &nbsp;|&nbsp; ▱▱▱▱▱
-
-</div>
-
-<br>
-
-<!-- ============================================== -->
-<!--             GYM BADGES (STATS)                 -->
-<!-- ============================================== -->
-<div align="center">
-
-### 🏅 MEDALLAS DE GIMNASIO — ESTADÍSTICAS
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ivanpinor&show_icons=true&hide_border=false&border_radius=8&bg_color=2C2C54&title_color=FFCB05&icon_color=FFCB05&text_color=ffffff" width="47%"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivanpinor&layout=compact&hide_border=false&border_radius=8&bg_color=2C2C54&title_color=FFCB05&text_color=ffffff" width="35%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🏆 TROFEOS DE LIGA
-
-<img src="https://github-profile-trophy.vercel.app/?username=ivanpinor&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
 
 <br>
 
