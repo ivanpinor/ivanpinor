@@ -178,9 +178,7 @@ Su pasatiempo favorito es LEAGUE OF LEGENDS.
 
 ###  CONTACTO
 
-<a href="https://instagram.com/ivanpinor" target="_blank">
-<img src="https://img.shields.io/badge/INSTAGRAM-FFCB05?style=for-the-badge&logo=instagram&logoColor=3B4CCA"/>
-</a>
+<a href="https://instagram.com/ivanpinor" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-FFCB05?style=for-the-badge&logo=instagram&logoColor=3B4CCA"/> </a>
 
 <br><br>
 
